@@ -1,2 +1,2 @@
 # pylib
-python lib for testaa
+python lib for test
